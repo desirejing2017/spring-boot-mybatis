@@ -1,0 +1,1 @@
+git@github.com:desirejing2017/spring-boot-mybatis.git
